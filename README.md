@@ -4,7 +4,7 @@
 
 [GitHub Repository](https://github.com/marylynntom/missionBit2/tree/master/)
 
-Collection of programs developed in my second semester at Mission Bit
+Some webpages developed in my second semester at Mission Bit
 
 [Short Adventure Game](https://marylynntom.github.io/missionbit2/adventuresOfHotChocolate.html)
 
