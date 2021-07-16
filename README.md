@@ -1,23 +1,15 @@
 # Mission Bit (Semester Two Projects)
 
-Some basic intermediate level projects from my second semester in web development and design
-
-Note: Most of my assignments for Mission Bit this second semester are on CodePen.
-
 ## Directory
 
 [GitHub Repository](https://github.com/marylynntom/missionBit2/tree/master/)
 
-A small collection of some files created with Mission Bit in my second semester
+Collection of programs developed in my second semester at Mission Bit
 
-[Basic Adventure Game](https://marylynntom.github.io/missionbit2/adventuresOfHotChocolate.html)
+[Short Adventure Game](https://marylynntom.github.io/missionbit2/adventuresOfHotChocolate.html)
 
-A short, basic adventure game made with fellow Mission Bit group mates
+Short adventure game developed in collaboration with Mission Bit student group
 
 [CodePen Profile](https://codepen.io/Mellie28/)
 
-Profile on CodePen that holds smaller assignments and one major project from Mission Bit
-
-[Block Dodger Game](https://codepen.io/Mellie28/pen/aLEXpr)
-
-JavaScript project during Mission Bit was meant to teach and reinforce programming language concepts
+CodePen features many smaller in-class exercises
