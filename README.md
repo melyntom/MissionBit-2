@@ -1,15 +1,5 @@
-# Mission Bit (Semester Two Projects)
+# Mission Bit 2
+Collection of introductory projects and exercises from my second semester at Mission Bit
 
-## Directory
-
-[GitHub Repository](https://github.com/marylynntom/missionBit2/tree/master/)
-
-Some webpages developed in my second semester at Mission Bit
-
-[Short Adventure Game](https://marylynntom.github.io/missionbit2/adventuresOfHotChocolate.html)
-
-Short adventure game developed in collaboration with Mission Bit student group
-
+## More Exercises on CodePen
 [CodePen Profile](https://codepen.io/Mellie28/)
-
-CodePen features many smaller in-class exercises
